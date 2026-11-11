@@ -1,0 +1,24 @@
+# STM32CubeIDE / build output
+Debug/
+Release/
+build/
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.d
+.settings/
+.metadata/
+
+# Saved dashboard logs (keep samples/)
+shipment_log_*.txt
+
+# Python
+__pycache__/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
