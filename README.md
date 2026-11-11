@@ -150,8 +150,8 @@ flowchart LR
 | **Trend + ETA** | Least-squares slope over about 2 min; time to the limit = margin ÷ rate | $m = \dfrac{\sum (t-\bar t)(T-\bar T)}{\sum (t-\bar t)^2}$ |
 | **Excursion budget** | Warning first; breach when time (30 s), area (0.5 °C·min) or margin (3 °C) is exceeded | $\int \lvert T - T_{lim} \rvert\,dt$ |
 | **Drop height** | Free fall (< 0.4 g) duration → equivalent height | $h = \tfrac12 g t^2$ |
-| **Tilt** | Angle from the gravity vector recorded at sealing | $\theta = \operatorname{atan2}(\lVert a \times r \rVert,\ a \cdot r)$ |
-| **Vibration** | RMS deviation from 1 g per sample | $\sqrt{\overline{(\lvert a \rvert - 1g)^2}}$ |
+| **Tilt** | Angle from the gravity vector recorded at sealing | $`\theta = \mathrm{atan2}(\lVert a \times r \rVert,\, a \cdot r)`$ |
+| **Vibration** | RMS deviation from 1 g per sample | $`\sqrt{\overline{(\lVert a \rVert - 1g)^2}}`$ |
 | **Integrity score** | 100 minus penalties (temp ≤ 40, RH 10, shock 25, tilt 15, light 30) | — |
 
 **Worked example:** 23 h at 20 °C plus 1 h at 40 °C gives a plain mean of **20.83 °C** but an MKT of **22.45 °C**. The hot hour does more damage than an average suggests.
