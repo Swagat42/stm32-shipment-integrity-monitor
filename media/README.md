@@ -10,4 +10,5 @@ Photos and screenshots from the hardware demonstration (Pharma-Cold profile, dem
 | `dashboard-excursion-budget-exceeded.jpg` | Time, area and margin budgets all exceeded, so the firmware latched a temperature breach |
 | `dashboard-lid-open-and-shock.jpg` | Lid opened (reed switch) and box knocked: tamper and shock detected, score 70 |
 | `dashboard-sensor-checks-and-event-log.jpg` | Lid and light checks, fan, GPS and packet diagnostics, and the `SEALED` event in the log |
-
+| `working.mp4` | Whole model working |
+| `profile.mp4` | Profile changing in LCD |
