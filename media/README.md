@@ -12,3 +12,4 @@ Photos and screenshots from the hardware demonstration (Pharma-Cold profile, dem
 | `dashboard-sensor-checks-and-event-log.jpg` | Lid and light checks, fan, GPS and packet diagnostics, and the `SEALED` event in the log |
 | `working.mp4` | Whole model working |
 | `profile.mp4` | Profile changing in LCD |
+| `inside the box.jpeg` | Connections inside the box |
