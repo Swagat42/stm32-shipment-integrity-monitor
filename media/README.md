@@ -11,4 +11,3 @@ Photos and screenshots from the hardware demonstration (Pharma-Cold profile, dem
 | `dashboard-lid-open-and-shock.jpg` | Lid opened (reed switch) and box knocked: tamper and shock detected, score 70 |
 | `dashboard-sensor-checks-and-event-log.jpg` | Lid and light checks, fan, GPS and packet diagnostics, and the `SEALED` event in the log |
 
-**Adding a video:** don't commit large `.mp4` files. Edit the README on github.com and drag the video onto the marked line in the Demo section (up to 100 MB). GitHub hosts it and plays it inline.
