@@ -1,1 +1,2 @@
-
+   # Firmware is the main language; the HTML dashboards are support tools
+   *.html linguist-documentation
