@@ -1,6 +1,0 @@
-# Primary language: the STM32 firmware is C
-firmware/*.c   linguist-language=C
-firmware/*.h   linguist-language=C
-
-# The HTML dashboards are support tools, so leave them out of the language stats
-*.html         linguist-vendored
