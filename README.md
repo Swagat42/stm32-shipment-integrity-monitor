@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📦 Shipment Integrity Monitor
+#  Shipment Integrity Monitor
 
 **An ARM Cortex-M4 black box that rides inside a shipment and records, with tamper-evident proof, every time it was heated, dropped, tilted, exposed to light or opened.**
 
